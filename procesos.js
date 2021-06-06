@@ -2,6 +2,8 @@ var operandoA;
 var operandoB;
 var operacion;
 
+alert("Esta pagina fue realizada por Rodalvis Guzmán")
+
 function init() {
   //variables
 
